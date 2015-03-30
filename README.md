@@ -1,2 +1,1 @@
 # Buddy-System-OS
-thomas
